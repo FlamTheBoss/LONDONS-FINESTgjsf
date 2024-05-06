@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+.abt{
+    margin: 0%;
+    border: 3px cyan double;
+}
+
+h3{
+    text-align: center;
+    font-size: 250%;
+   
+    margin-top: 5%;
+    font-family: "Sedan SC";
+}
+
+p{
+    text-align: center;
+    font-size: 250%;
+   
+    margin-top: 5%;
+    font-family: "Sedan SC";
+    
+}
+
+body{
+    background-color: blue;
+}
+
+img{
+    width: auto;
+    border-radius: 5px;
+}
+
+
